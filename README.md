@@ -8,3 +8,6 @@
 ## つまずいたとところ
 intellij IDE
 
+## その他
+背景画像はGoogleのGeminiで作りました
+
