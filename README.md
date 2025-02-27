@@ -1,4 +1,4 @@
-# Kotlinの勉強用１  
+# Compose for desktopの勉強用１  
 ### compose for deskutopのアプリケーション  
 
 このレポジトリはFORTEさんの
