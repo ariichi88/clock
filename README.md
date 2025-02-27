@@ -6,7 +6,7 @@
 に載っているデジタルクロックを作成したコードです。  
 
 ## つまずいたとところ
-intellij IDEで
+intellij IDEで作成
 
 ## その他
 背景画像はGoogleのGeminiで作りました
